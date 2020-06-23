@@ -1,3 +1,5 @@
+<!-- (C) 2020 Diogo Rodrigues -->
+
 # Part 1
 
 To see these files please install [Digital](https://github.com/hneemann/Digital), a simple digital logic designer and circuit simulator.

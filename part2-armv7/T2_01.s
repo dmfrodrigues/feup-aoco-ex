@@ -1,3 +1,5 @@
+; (C) 2020 Diogo Rodrigues
+
 seqA		DCD		3,-5,21,2,-10,50,9
 tseqA	DCD		7
 		

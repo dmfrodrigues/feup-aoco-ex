@@ -1,3 +1,5 @@
+; (C) 2020 Diogo Rodrigues
+
 ;SINAL ======================================================
 sinal		LSR	R0,	R0, #31
 			MOV	PC,	LR

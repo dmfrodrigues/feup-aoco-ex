@@ -1,3 +1,5 @@
+; (C) 2020 Diogo Rodrigues
+
 Num			DCD	0x40400000, 0xc0380000
 			LDR	R4, =Num
 			LDR	R5, [R4, #4]
