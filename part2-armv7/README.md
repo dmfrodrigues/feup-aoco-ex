@@ -1,4 +1,4 @@
-# Trabalho 2
+# Part 2
 
 To use these programs, please install [VisUAL](https://salmanarif.bitbucket.io/visual/index.html), a very simple ARM assembly emulator/IDE.
 
