@@ -4,6 +4,18 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+- **Institution:** [FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial)
+- **Course:** [AOCO](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=419985) (Computer Architecture and Organization)
+- **Subjects:** Computer architecture analysis, low-level (assembly code) programming
+- **Environment:** [Digital](https://github.com/hneemann/Digital), [VisUAL](https://salmanarif.bitbucket.io/visual/index.html)
+- **Tools:** Logic circuits, ARMv7
+- **Course grade:**18/20
+
+## Contents
+
+- [Part 1](part1-logic-circuits) | Logic circuits
+- [Part 2](part2-armv7) | ARMv7 assembly programming
+
 ## License
 
 © 2020 Diogo Rodrigues
