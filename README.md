@@ -1,6 +1,6 @@
 <!-- (C) 2020 Diogo Rodrigues -->
 
-# AOCO
+# FEUP/AOCO 2018/19 - solved exercises
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
