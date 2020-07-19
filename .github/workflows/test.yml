@@ -19,7 +19,7 @@ jobs:
         rm -f visual_1.27-1_amd64.deb
 
     - name: Give permission to execute
-      run: chmod u+x *.sh
+      run: chmod u+x */*.sh
 
     - name: Test
       run: make test
