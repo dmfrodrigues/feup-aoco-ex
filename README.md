@@ -4,6 +4,8 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+![test](https://github.com/dmfrodrigues/feup-aoco-ex/workflows/test/badge.svg)
+
 - **Institution:** [FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial)
 - **Course:** [AOCO](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=419985) (Computer Architecture and Organization)
 - **Subjects:** Computer architecture analysis, low-level (assembly code) programming
