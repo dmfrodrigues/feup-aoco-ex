@@ -6,7 +6,7 @@ tseqA	DCD		7
 		LDR		R0, =tseqA
 		LDR		R0, [R0]
 		LDR		R1, =seqA
-ciclo	CMP		R0, #0
+ciclo:	CMP		R0, #0
 		BEQ		fim
 		LDR		R2, [R1]
 		LSL		R2, R2, #1
