@@ -5,6 +5,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ![test](https://github.com/dmfrodrigues/feup-aoco-ex/workflows/test/badge.svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ae4f0f9eb0244e0884f9e05dc47e5572)](https://www.codacy.com/gh/dmfrodrigues/feup-aoco-ex/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dmfrodrigues/feup-aoco-ex&amp;utm_campaign=Badge_Grade)
 
 - **Institution:** [FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial)
 - **Course:** [AOCO](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=419985) (Computer Architecture and Organization)
